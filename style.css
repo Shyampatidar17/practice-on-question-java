@@ -1,0 +1,36 @@
+body{
+    background-color:#38bdf8;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 6rem
+}
+#txt-input1{
+    margin-top: 3rem;
+}
+ input{
+     padding:0.5rem;
+     margin: auto;
+     display: block;
+     cursor: pointer;
+    
+     
+}
+button{
+    padding:0.5rem 2rem;
+    margin:auto;
+    display: block;
+}
+#output{
+    border:1px solid black;
+    padding:1.5rem ;
+    background-color: bisque;
+    width:30%;
+    margin: auto;
+    display: block;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
